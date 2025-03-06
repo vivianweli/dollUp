@@ -46,3 +46,6 @@ All images are obtained from Freepik.
 - Hairstyle Marker - <a href="https://www.freepik.com/free-vector/hand-drawn-curly-hair-types-with-women_12428982.htm#fromView=search&page=1&position=4&uuid=2457b67b-aba8-4205-a627-efc8c891a784">Icon by Freepik</a>
 - Hair Color Marker - <a href="https://www.freepik.com/free-vector/coloring-your-hair-doodle-sticker-vector_34381472.htm#fromView=search&page=1&position=30&uuid=1bb8fa11-04c2-4551-a239-9718dd2ed3e3">Icon by rawpixel.com</a>
 - Skin Color Marker - <a href="https://www.freepik.com/free-vector/international-group-women-with-flat-design_3290713.htm#fromView=search&page=1&position=37&uuid=167c8860-a25f-402a-b749-133bab97c68c">Icon by Freepik</a>
+
+## Made By
+Vivian LI and Xintian FU
