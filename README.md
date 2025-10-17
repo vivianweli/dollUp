@@ -1,7 +1,7 @@
 # dollUp
 [Watch the demo video](https://youtu.be/U-Nba1odUlA)
 ![image](https://github.com/user-attachments/assets/2e01791b-28f4-42df-a398-5442e19c9e4f)
-Doll Up is an interactive AR game that combines physical markers and digital menus to create a playful and immersive doll-dressing experience. Players can scan physical objects, including a doll marker, two cultural-themed scene markers, and a six-sided cubed marker, to display scenes and style a virtual doll model in real-time. By interacting with both the physical cube and the digital interface, players can explore various skins, outfits, and hairstyles, set their scene in iconic locations, and capture their designs.
+Doll Up is an interactive AR game that combines physical markers and digital menus to create a playful and immersive doll-dressing experience. Players can scan physical objects, including a doll marker, two cultural-themed scene markers, and a six-sided cubed marker, to display scenes and style a virtual doll model in real-time. By interacting with both the physical cube and the digital interface, players can explore various skins, outfits, and hairstyles, set their scene in iconic locations, and capture their designs. 
 
 
 
